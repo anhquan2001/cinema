@@ -5,7 +5,7 @@
         <div class="row align-items-center position-relative">
             <div class="col-md-12">
                 <div class="alert alert-warning text-center" role="alert">
-                    MÀN HÌNH FULLHD KHÔNG CHE
+                    MÀN HÌNH FULLHD
                 </div>
             </div>
             <div class="col-md-12">

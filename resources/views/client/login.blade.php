@@ -17,6 +17,9 @@
                             <div class="col-md-12">
                                 <input name="password" type="text" placeholder="Nhập vào mật khẩu">
                             </div>
+                            <div class="text-right mb-3 mr-4">
+                                <a href="/reset-password">Quên mật khẩu</a>
+                            </div>
                             {{-- <div class="col-md-12">
                                 {!! NoCaptcha::renderJs() !!}
                                 {!! NoCaptcha::display() !!}

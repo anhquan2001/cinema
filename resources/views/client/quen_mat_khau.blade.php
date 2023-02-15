@@ -6,7 +6,7 @@
             <div class="col-xl-8 col-lg-7">
                 <div class="contact-form-wrap">
                     <div class="widget-title mb-50">
-                        <h5 class="title">Đăng Nhập</h5>
+                        <h5 class="title">Quên mật khẩu</h5>
                     </div>
                     <div class="contact-form">
                         <form action="/reset-password" method="post">
